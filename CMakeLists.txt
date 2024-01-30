@@ -4,3 +4,4 @@ project(cpp_problems)
 
 add_executable(linkedlist linkedlist.cpp)
 add_executable(factorial factorial.cpp)
+add_executable(matrix matrix.cpp)
