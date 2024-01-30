@@ -3,3 +3,4 @@ set(CMAKE_CXX_STANDARD 14)
 project(cpp_problems)
 
 add_executable(linkedlist linkedlist.cpp)
+add_executable(factorial factorial.cpp)
